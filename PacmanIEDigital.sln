@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanIEDigital", "PacmanIEDigital\PacmanIEDigital.csproj", "{1C891CC0-6D3C-4AC3-A3F3-5500A9FFD96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanIEDigital.UnitTests", "PacmanIEDigital.UnitTests\PacmanIEDigital.UnitTests.csproj", "{593A2ED3-D0F4-4BBE-800A-6DC9372A292A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C891CC0-6D3C-4AC3-A3F3-5500A9FFD96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C891CC0-6D3C-4AC3-A3F3-5500A9FFD96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C891CC0-6D3C-4AC3-A3F3-5500A9FFD96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C891CC0-6D3C-4AC3-A3F3-5500A9FFD96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593A2ED3-D0F4-4BBE-800A-6DC9372A292A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593A2ED3-D0F4-4BBE-800A-6DC9372A292A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593A2ED3-D0F4-4BBE-800A-6DC9372A292A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593A2ED3-D0F4-4BBE-800A-6DC9372A292A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D85C006C-B91D-4907-A95D-293299982703}
+	EndGlobalSection
+EndGlobal
